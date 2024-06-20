@@ -1,5 +1,7 @@
-Stopwatch Web Application
+Stopwatch Web Application:
+
 This is a simple Stopwatch Web Application built using HTML, CSS, and JavaScript. It allows users to track elapsed time with start, stop, and reset functionalities.
+![WhatsApp Image 2024-06-10 at 3 05 10 PM (2)](https://github.com/Owaish786/PRODIGY_WD_02/assets/153826034/7de0fa43-8d85-4145-a2ea-762b4ba0f622)
 
 Features
 Start: Initiates the stopwatch.
